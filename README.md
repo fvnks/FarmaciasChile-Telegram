@@ -1,4 +1,4 @@
-¡Por supuesto! Aquí tienes un ejemplo de cómo podría ser el archivo README para este código en GitHub:
+
 
 ```
 # Bot de Telegram para consultar farmacias abiertas por comuna
